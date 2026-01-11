@@ -32,7 +32,7 @@
 - 全结局解锁
 - 全道具收集
 
-[下载全CG存档](https://github.com/Yang-Ducai/manosaba/raw/main/All CG data.rar/){: .btn .btn-warning}
+[下载全CG存档](https://github.com/Yang-Ducai/manosaba/raw/main/All_CG_data.rar/){: .btn .btn-warning}
 
 ## 存档使用说明
 
