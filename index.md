@@ -15,7 +15,7 @@
 
 **存档特点：**
 - 游戏进度：约30%
-- 已完成第三次审判剧情章节
+- 已完成第二部第二章审判剧情章节
 - 包含部分CG收集
 
 [下载已玩部分存档](https://github.com/Yang-Ducai/manosaba/raw/main/Saves_v1.rar/){: .btn .btn-primary}
@@ -83,6 +83,7 @@
 | v1.0 | 2026-01-11 | 初始版本，包含基础存档   |
 | v2.0 | 2026-01-12 | 更新了第二章审判的内容   |
 | v3.0 | 2026-01-16 | 更新了第三章审判的内容   |
+| v4.0 | 2026-01-16 | 更新了第七章审判的内容   |
 
 ### 常见问题
 <details>
@@ -102,6 +103,23 @@
 <summary>存档安全吗？</summary>
 所有存档文件都经过安全检查，不含任何恶意代码。您可以放心使用。
 </details>
+
+### 评论
+<script src="https://giscus.app/client.js"
+        data-repo="Yang-Ducai/discussion"
+        data-repo-id="R_kgDOQ8Qe1A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOQ8Qe1M4C1HIv"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---
 
